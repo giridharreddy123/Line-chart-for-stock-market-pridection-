@@ -1,1 +1,1 @@
-# Line-chart-for-stock-market-pridection-
+# Line-chart-for-stock-market-prediction-
